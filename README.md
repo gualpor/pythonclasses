@@ -7,3 +7,13 @@ Github
   interface de usuário para o Git. Você pode criar arquivos, postar e outras pessoas com o acesso ao seu perfil poderão ver o que você postou e dependendo baixar e usar nos seus programas. Eu por exemplo 
   ja usei o github várias vezes para baixar mods ou programas pro meu pc pessoal.
   
+Funçoes do git
+git init -> Inicia um repositório vazio do git
+git add -> Deixa o arquivo pronto para o "git commit"
+git status -> Mostra quais arquivos estão sendo editados
+git commit -> Ele "posta" os arquivos editados no repositório
+git branch -> Escolhe qual galho você esta usando
+git log -> Mostra a log dos ultimos commit que você deu
+git remote -> Mexe nos repositórios virtuais, exemplo: git remote *add origin {link do repositorio}*,
+              neste caso, ele vai usar o link como repositório de salvamento dos arquivos
+git push -> Envia os arquivos pro repositório selecionado
